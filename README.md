@@ -1,4 +1,4 @@
-# FleetLive: Real-Time GPS Cockpit
+# FleetLive: Real-Time GPS
 
 FleetLive is a high-fidelity vehicle tracking simulation built for the Rio Deep Technologies assessment. It visualizes multiple vehicle types navigating the real-world road network of Dhaka City in real time.
 
